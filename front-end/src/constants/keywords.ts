@@ -1,0 +1,17 @@
+export const keywords: string[] = [
+  "Vocábulo",
+  "aprender palavras",
+  "vocabulário",
+  "app de idiomas",
+  "aplicativo educacional",
+  "tamanduá mascote",
+  "língua portuguesa",
+  "jogo de palavras",
+  "aprendizado divertido",
+  "educação interativa",
+  "plataforma de idiomas",
+  "Duolingo brasileiro",
+  "palavras em português",
+  "ensino de vocabulário",
+  "aprender brincando",
+];
